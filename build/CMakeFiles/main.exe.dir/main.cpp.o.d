@@ -931,4 +931,12 @@ CMakeFiles/main.exe.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/bind_front.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/stack \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/print \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/unistd.h
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/unistd.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-document.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-global.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler_cpp_export.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-font.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/map \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tree \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-page.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-rectangle.h

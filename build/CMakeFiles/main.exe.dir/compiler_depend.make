@@ -564,6 +564,7 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__thread/support.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__thread/support/pthread.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tree \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/find_index.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/ignore.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h \
@@ -754,6 +755,7 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/locale.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/memory \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/mutex \
@@ -933,8 +935,22 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/ptrcheck.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h
+  /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-document.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-font.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-global.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-page.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-rectangle.h \
+  /opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler_cpp_export.h
 
+
+/opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-rectangle.h:
+
+/opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-page.h:
+
+/opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-global.h:
+
+/opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-font.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h:
 
@@ -1102,10 +1118,6 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/machine/signal.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/maybe_const.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/machine/limits.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/lower_bound.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/machine/_mcontext.h:
@@ -1173,6 +1185,10 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/print:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/math.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/map:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/bitset:
 
@@ -1279,6 +1295,10 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/find.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/machine/limits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/maybe_const.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/xlocale/___wctype.h:
 
@@ -1472,11 +1492,13 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/tuple_size.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/tuple_like_no_subrange.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/tuple_like_ext.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/sfinae_helpers.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tuple/tuple_like_no_subrange.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__tree:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h:
 
@@ -1533,8 +1555,6 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__mutex/once_flag.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__mbstate_t.h:
 
@@ -2092,6 +2112,8 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/different_from.h:
 
+/opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler-document.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__cstddef/max_align_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
@@ -2287,6 +2309,8 @@ CMakeFiles/main.exe.dir/main.cpp.o: /Users/pjkim/repos/bom-generator/main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/ranges_partition.h:
+
+/opt/homebrew/Cellar/poppler/25.10.0/include/poppler/cpp/poppler_cpp_export.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/ranges_is_sorted.h:
 
