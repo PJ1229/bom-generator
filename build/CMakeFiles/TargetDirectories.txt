@@ -1,0 +1,3 @@
+/Users/pjkim/repos/bom-generator/build/CMakeFiles/main.exe.dir
+/Users/pjkim/repos/bom-generator/build/CMakeFiles/edit_cache.dir
+/Users/pjkim/repos/bom-generator/build/CMakeFiles/rebuild_cache.dir
